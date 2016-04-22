@@ -1,0 +1,7 @@
+org/wso2/carbon/appmgt/expiring/subscription/impl/dao/AppMSubscriptionExtensionDAO.class
+org/wso2/carbon/appmgt/expiring/subscription/api/AppConsumerExtension.class
+org/wso2/carbon/appmgt/expiring/subscription/hostobjects/AppStoreExtensionHostObject.class
+org/wso2/carbon/appmgt/expiring/subscription/api/model/SubscribedAppExtension.class
+org/wso2/carbon/appmgt/expiring/subscription/impl/AppConsumerExtensionImpl.class
+org/wso2/carbon/appmgt/expiring/subscription/impl/workflow/SubscriptionCreationExpiryWorkflowExecutor.class
+org/wso2/carbon/appmgt/expiring/subscription/impl/dto/SubscriptionExpiryDTO.class
